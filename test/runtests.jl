@@ -2,5 +2,7 @@ using JuExample
 using Test
 
 @testset "JuExample.jl" begin
-    # Write your tests here.
+  @test JuExample.test_func(0,1) == 1
+  @test JuExample.test_func(1,1) == 2
+  @test JuExample.test_func(10,1) == 11
 end
