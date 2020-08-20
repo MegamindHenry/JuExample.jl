@@ -35,7 +35,7 @@ version = "0.21.0"
 
 [[JuExample]]
 path = ".."
-uuid = "6931ba29-5917-4460-aa14-ec2e976b1172"
+uuid = "b86f6d24-fa3c-4bb8-9a02-bb4972d8d575"
 version = "0.1.0"
 
 [[LibGit2]]
