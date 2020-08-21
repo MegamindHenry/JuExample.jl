@@ -6,4 +6,5 @@ using Test
   @test JuExample.test_func(1,1) == 2
   @test JuExample.test_func(10,1) == 11
   @test JuExample.test_func(2,3) == 5
+  @test JuExample.test_func(3,3) == 6
 end
