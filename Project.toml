@@ -1,7 +1,7 @@
 name = "JuExample"
 uuid = "b86f6d24-fa3c-4bb8-9a02-bb4972d8d575"
 authors = ["Xuefeng Luo"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1.5"
